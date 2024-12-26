@@ -13,7 +13,7 @@ server.listen(port, () => {
   setInterval(() => {
     axios
       .get(
-        `https://tm-jason-server-mock.onrender.com/products?price_gte=20&price_lte=25&_sort=price&_order=asc&_limit=1`,
+        `https://db-mock.onrender.com/products?price_gte=20&price_lte=25&_sort=price&_order=asc&_limit=1`,
       )
       .then((response) => {
         console.log('Pinged server to keep it active')
