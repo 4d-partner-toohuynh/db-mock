@@ -1,6 +1,6 @@
 # Mock Server 4 hehe
 
-This is a mock server built using [json-server](https://www.npmjs.com/package/json-server/v/0.17.4) to provide a quick and easy API for a frontend mock project. The server serves a set of mock data from a JSON file and supports basic CRUD operations, search, pagination, filtering, and sorting.
+This is a  server built using [json-server](https://www.npmjs.com/package/json-server/v/0.17.4) to provide a quick and easy API for a frontend mock project. The server serves a set of mock data from a JSON file and supports basic CRUD operations, search, pagination, filtering, and sorting.
 
 ## Features
 
