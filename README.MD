@@ -15,7 +15,7 @@ This is a mock server built using [json-server](https://www.npmjs.com/package/js
 ## Installation
 
 ```bash
-npm install
+npm 
 ```
 
 ## Usage
