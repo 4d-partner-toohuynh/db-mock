@@ -12,7 +12,7 @@ This is a mock server built using [json-server](https://www.npmjs.com/package/js
 - **Customizable raw data**: JSON files are provided separately so candidates can use them with other services or adapt them as needed.
 
 
-## Installation
+## Lastet
 
 ```bash
 npm 
