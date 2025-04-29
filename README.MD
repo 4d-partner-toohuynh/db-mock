@@ -4,7 +4,7 @@ This is a  server built using [json-server](https://www.npmjs.com/package/json-s
 
 ## Features
 
-- Serve mock data  `db.json`
+-  mock data  `db.json`
 - Supports GET, POST, PUT, DELETE, and PATCH HTTP methods.
 - Search, sorting, pagination, and filtering through query parameters.
 - TypeScript model definition for easier type checking and development.
