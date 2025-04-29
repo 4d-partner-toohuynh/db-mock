@@ -9,7 +9,7 @@ This is a mock server built using [json-server](https://www.npmjs.com/package/js
 - Search, sorting, pagination, and filtering through query parameters.
 - TypeScript model definition for easier type checking and development.
 - Ideal for prototyping and testing frontend applications.
-- **Customizable raw data**: JSON files are provided separately so candidates can use them with other services or adapt them as needed.
+- **Customizable raw data**: JSON files are provided separately so candidates can use them with other services or adapt them as.
 
 
 ## Installation
