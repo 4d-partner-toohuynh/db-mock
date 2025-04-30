@@ -1,5 +1,5 @@
 フォルダパス, ページ名, テンプレート名, 入力方法, 項目名, 値
 　, 　, 　, 　, 　, 　
-カタログ・マイページ\store\pub\application\contract, B-149 端末一覧 アクセサリ, カタログ HTML流し込み用ページテンプレート, ファイル入力, 【必須】コンテンツエリア HTML流し込み, ../dest2/store/pub/application/contract/index.html
+カタログ・マイページ\store\pub\application\test\contract, B-149 端末一覧 アクセサリ, カタログ HTML流し込み用ページテンプレート, ファイル入力, 【必須】コンテンツエリア HTML流し込み, ../dest2/store/pub/application/contract/index.html
 カタログ・マイページ\store\auth\plan-change\guidance\sim, B-220 三種の神器OKプラン変更のみ, カタログ HTML流し込み用ページテンプレート, ファイル入力, 【必須】コンテンツエリア HTML流し込み, ../dest2/store/auth/plan-change/guidance/sim/index.html
 カタログ・マイページ\store\pub\application\terminal, B-4 端末一覧 他社から乗り換え, カタログ HTML流し込み用ページテンプレート, リソースファイル登録, , ../dest2/common/cil/js/B-4.js
