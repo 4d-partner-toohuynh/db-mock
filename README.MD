@@ -15,7 +15,7 @@ This is a  server built using [json-server](https://www.npmjs.com/package/json-s
 ## Installation
 
 ```bash
-npm install
+npm 
 ```
 
 ## Usage
