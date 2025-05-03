@@ -1,0 +1,5 @@
+フォルダパス, ページ名, テンプレート名, 入力方法, 項目名, 値
+　, 　, 　, 　, 　, 　
+カタログ・マイページ\store\pub\application\esim-check, B-420 申し込み前に準備してください（eSIMのみ導線）, カタログ HTML流し込み用ページテンプレート, ファイル入力, 【必須】コンテンツエリア HTML流し込み, ../dest2/store/pub/application/esim-check/index.html
+カタログ・マイページ\store\pub\application\sim-check, B-419 申し込み前に準備してください（SIMのみ導線）, カタログ HTML流し込み用ページテンプレート, ファイル入力, 【必須】コンテンツエリア HTML流し込み, ../dest2/store/pub/application/sim-check/index.html
+カタログ・マイページ\store\pub\application\terminal\sim-check, B-419st 申し込み前に準備してください（スマホとSIM導線）, カタログ HTML流し込み用ページテンプレート, ファイル入力, 【必須】コンテンツエリア HTML流し込み, ../dest2/store/pub/application/terminal/sim-check/index.html
